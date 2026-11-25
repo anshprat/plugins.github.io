@@ -6,10 +6,10 @@ Browser extensions for daily work on GitHub, Slack, Google, LinkedIn and more. A
 
 | Extension | What it does | Browsers |
 |---|---|---|
-| [GitHub Word Diff](https://github.com/anshprat/gh-text-diff) | Highlights only the changed words in long changed lines of a pull request diff, not the whole line. | Chrome |
-| [GitHub Markdown WYSIWYG](https://github.com/anshprat/github-md-wysiwyg) | Edits Markdown files on github.com in a rich-text editor, then commits with the normal GitHub flow. | Chrome |
-| [GitHub Admin Profile Guard](https://github.com/anshprat/gh-profile) | Shows an alert when you use an admin GitHub profile on a pull request page. | Chrome |
-| [GitHub Actions Green Checkboxes](https://github.com/anshprat/GitHub-Actions-Green-Checkboxes) | Changes the grey checkboxes on GitHub Actions detail pages to green, to match the successful steps. | Chrome |
+| [GitHub Word Diff](https://github.com/anshprat/gh-text-diff) | Highlights only the changed words in long changed lines of a pull request diff, not the whole line. | Chrome, Firefox |
+| [GitHub Markdown WYSIWYG](https://github.com/anshprat/github-md-wysiwyg) | Edits Markdown files on github.com in a rich-text editor, then commits with the normal GitHub flow. | Chrome, Firefox |
+| [GitHub Admin Profile Guard](https://github.com/anshprat/gh-profile) | Shows an alert when you use an admin GitHub profile on a pull request page. | Chrome, Firefox |
+| [GitHub Actions Green Checkboxes](https://github.com/anshprat/GitHub-Actions-Green-Checkboxes) | Changes the grey checkboxes on GitHub Actions detail pages to green, to match the successful steps. | Chrome, Firefox |
 
 ## Sign-in and security
 
@@ -31,8 +31,8 @@ Browser extensions for daily work on GitHub, Slack, Google, LinkedIn and more. A
 | Extension | What it does | Browsers |
 |---|---|---|
 | [Slack Emoji Importer](https://github.com/anshprat/slack-emojis-importer) | Adds a search panel to the Slack emoji page. Finds emojis on slackmojis.com and slackemoji.com and adds them to your workspace in one click. | Chrome, Firefox |
-| [LinkedIn Connections Exporter](https://github.com/anshprat/linkedin-connections) | Scrolls your LinkedIn connections page and exports the name, profile URL, headline and connected date to CSV. | Chrome |
-| [LinkedIn Accept All Invitations](https://github.com/anshprat/linkedin-accept-all) | Accepts all pending LinkedIn connection invitations in one click. | Chrome |
+| [LinkedIn Connections Exporter](https://github.com/anshprat/linkedin-connections) | Scrolls your LinkedIn connections page and exports the name, profile URL, headline and connected date to CSV. | Chrome, Firefox |
+| [LinkedIn Accept All Invitations](https://github.com/anshprat/linkedin-accept-all) | Accepts all pending LinkedIn connection invitations in one click. | Chrome, Firefox |
 
 ## Admin consoles and tools
 
